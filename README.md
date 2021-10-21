@@ -207,9 +207,8 @@ WARN,79
 ### To run on AWS EMR
 
 * Create a account in aws.amazon.com and create a IAM user .
-*  Create a S3 bucket and deploy the jar and input file in the s3 bucket in AWS .
-*  Go to Amazon EMR and create a cluster which is used to rapid processing and analyzing big data in AWS .
+* Create a S3 bucket and deploy the jar and input file in the s3 bucket in AWS .
+* Go to Amazon EMR and create a cluster which is used to rapid processing and analyzing big data in AWS .
 * Configure the steps displayed as required and run the job .
 * On completion, run the jar file and check the output folder which will have the output of the mapReduce class which has been executed in the hadoop environment in EMR .
-
-
+* Youtube Link for the AWS submission is https://youtu.be/OZBOmuXNXP4
